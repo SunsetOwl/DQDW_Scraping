@@ -1,0 +1,11 @@
+﻿Group,Path
+Logs,logs
+Hourly Data,hourly
+Daily Data,daily
+# of User Ratings,daily/user_votes
+Average User Rating,daily/user_avg_rating
+Categorical User Rating,daily/user_cat_rating
+# of Critic Ratings,daily/critic_votes
+Average Critic Rating,daily/critic_avg_rating
+Player Counts,hourly/players
+Highest Player Count,daily/players

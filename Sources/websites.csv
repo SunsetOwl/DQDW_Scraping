@@ -1,0 +1,4 @@
+Website,Link,Type,Total User Ratings,Average User Rating,Categorical User Ratings,Total Critic Ratings,Average Critic Rating,Highest Player Counts,Player Counts
+IGDB,https://api.igdb.com/,API,True,True,False,True,True,False,False
+RAWG,https://api.rawg.io/,API,True,True,True,False,False,False,False
+SteamCharts,https://steamcharts.com/,Scraping,False,False,False,False,False,True,True

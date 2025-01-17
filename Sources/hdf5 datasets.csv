@@ -1,0 +1,11 @@
+﻿Dataset,Source,Name,Group,Datatype,Datetype,Set Columns,Column per Game
+Log Data,Created,log_data,logs,String,Full,2,False
+Player Counts,Steam Charts,steam_charts,hourly/players,Integer,Date and Time,2,True
+# of User Ratings,IGDB,igdb,daily/user_votes,Integer,Date,1,True
+# of User Ratings,RAWG,rawg,daily/user_votes,Integer,Date,1,True
+Categorical User Rating,RAWG,rawg,daily/user_cat_rating,String,Date,1,True
+Average User Rating,IGDB,igdb,daily/user_avg_rating,Float,Date,1,True
+Average User Rating,RAWG,rawg,daily/user_avg_rating,Float,Date,1,True
+Highest Player Counts,Steam Charts,steam_charts,daily/players,Integer,Date,1,True
+# of Critic Ratings,IGDB,igdb,daily/critic_votes,Integer,Date,1,True
+Average Critic Rating,IGDB,igdb,daily/critic_avg_rating,Float,Date,1,True

@@ -1,0 +1,6 @@
+selenium~=4.16.0
+requests~=2.32.0
+pandas~=2.1.0
+h5py~=3.10.0
+numpy~=1.25.2
+matplotlib~=3.9.2
